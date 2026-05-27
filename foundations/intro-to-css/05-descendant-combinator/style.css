@@ -1,1 +1,8 @@
 /* Add CSS Styling */
+
+div p {
+    background-color: hsl(61, 100%, 60%);; 
+    color: rgb(248, 2, 2); 
+    font-size: 20px;
+    text-align: center;
+}
