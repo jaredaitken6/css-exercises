@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+.clickMeBtn {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.firstClickMeBtn {
+    background-color: hsl(0, 0%, 0%);
+    color: rgb(255, 255, 255);
+}
+
+.secondClickMeBtn {
+    background-color: hsl(57, 97%, 52%);
+    color: rgb(0, 0, 0);
+}
