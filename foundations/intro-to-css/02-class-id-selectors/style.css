@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+
+p {
+    background-color: rgb(233, 122, 122);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#bigBlueFont {
+    color: hsl(200, 100%, 50%);
+    font-size: 36px;
+}
+
+.mediumFontSize {
+    font-size: 24px;
+}
+
+div.mediumFontSize {
+    background-color: #a5f4d7;
+    font-weight: bold;
+}
